@@ -1,0 +1,6 @@
+C:\Users\IMac3\source\repos\ConsoleApp1\MathLibrary1\bin\Debug\MathLibrary1.dll
+C:\Users\IMac3\source\repos\ConsoleApp1\MathLibrary1\bin\Debug\MathLibrary1.pdb
+C:\Users\IMac3\source\repos\ConsoleApp1\MathLibrary1\obj\Debug\MathLibrary1.csproj.AssemblyReference.cache
+C:\Users\IMac3\source\repos\ConsoleApp1\MathLibrary1\obj\Debug\MathLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\IMac3\source\repos\ConsoleApp1\MathLibrary1\obj\Debug\MathLibrary1.dll
+C:\Users\IMac3\source\repos\ConsoleApp1\MathLibrary1\obj\Debug\MathLibrary1.pdb
